@@ -1,2 +1,2 @@
 # First-repo
-This is just my first for learning that how to work Github
+This is just my first repo for learning that how to work in Github
