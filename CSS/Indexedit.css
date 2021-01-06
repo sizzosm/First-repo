@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url(../Media/Background/Backgorund.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: acroll;
+}
+div{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.884);
+    background-size: ;
+    border: 0 solid black;
+    height: 100%;
+}
+h2{
+    font-weight: bold;
+    border: 0px solid #f1f1f1;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 30px #ffa600;
+}
+p{
+    
+    font-weight: bold;
+    border: 0px solid #f1f1f1;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 30px #ffa600;
+}
